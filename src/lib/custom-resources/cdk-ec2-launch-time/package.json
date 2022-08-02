@@ -7,8 +7,8 @@
   "private": true, 
   "version": "0.0.1", 
   "dependencies": {
-    "@aws-cdk/aws-iam": "1.85.0", 
-    "@aws-cdk/core": "1.85.0"
+    "@aws-cdk/aws-iam": "1.163.1", 
+    "@aws-cdk/core": "1.163.1"
   }, 
   "devDependencies": {
     "eslint": "7.10.0",
