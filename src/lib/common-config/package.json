@@ -46,7 +46,7 @@
     "adm-zip": "0.4.14",
     "@types/prettier": "2.1.1",
     "archiver": "3.1.1",
-    "aws-sdk": "2.787.0",
+    "aws-sdk": "2.1172.0",
     "deep-diff": "1.0.2",
     "exponential-backoff": "3.1.0",
     "fp-ts": "2.5.3",
