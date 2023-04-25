@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "aws-cdk": "1.85.0",
-    "aws-sdk": "2.787.0",
+    "aws-sdk": "2.1354.0",
     "colors": "1.4.0",
     "exponential-backoff": "3.1.0"
   }
